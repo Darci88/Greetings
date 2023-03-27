@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  Greetings
+
+  Created by user219285 on 3/17/23.
+  
+*/
+
+"Greetings" = "Pozdrav";
+"Exploring iOS 16 programming" = "Istražujemo programiranje za iOS 16";
+"Learning how to bake" = "Učimo kako peći";
+"Programing recipes" = "recepti za programiranje";
+"A quest for knowledge" = "Potraga za znanjem";
+"Hello there" = "Bok";
+"Welcome to Swift programming!" = "Dobrodošli u Swift programiranje!";
+"Are you ready to" = "Jeste li spremni";
+"start exploring?" = "početi istraživati?";
+"Boom." = "Bum.";
